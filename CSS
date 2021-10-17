@@ -1,0 +1,68 @@
+*{
+  background-color:#D192F1;
+  margin:0;
+  padding:0;
+  display:below-block;
+  text-align:center;
+  font-family:helvetica;
+  margin-top:20px;
+  margin-bottom:40px;
+}
+}
+#titulo{
+  font-family:sans-serif;
+  color:purple;
+ 
+}
+#subtitulo{
+  font-family:sans-serif;
+  color:white;
+}
+fieldset{
+  border:0;
+}
+body{
+  backgorund-color:white;
+  font-family:sans-serif;
+  font-size:1em;
+  color:#66F0D4;
+  sustify-content:center;
+}
+input, button{
+  border-radius:5px;
+}
+.campo label{
+  margin-botton:0.2;
+  color:roxo;
+  display:bock;
+}
+fieldset.grupo .campo{
+  float:left;
+  margin-right:1em;
+}
+.campo input[type“email”], .campo input[type“telefone”], .campo input[type“aniversario”], .campo input[type“peso”]{
+  padding:0.2em;
+  border:px solid roxo;
+  box-shadow:2px 2px 2px rgba(0,0,0,0.2);
+  display:block;
+}
+.botao{
+  font-size:1.2em;
+  background:roxo;
+  border:0%;
+  margin-bottton:1em;
+  color:white;
+  padding:0.2em 0.6;
+  box-shadow:2px 2px 2px (0,0,0,0,2);
+  text-shadow:1px 1px 1px rgba(0,0,0,0,5);
+  position: absolute;
+  top:90%;
+  left:50%;
+  margin-right:50%;
+  transform:translate (-50%,-50%);
+}
+.botao:hover {
+  background:white;
+  box-shadow:inset 2px 2px 2px rgba(0,0,0.2);
+  text-shadow:none;
+}
