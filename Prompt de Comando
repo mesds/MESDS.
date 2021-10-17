@@ -1,0 +1,21 @@
+cd c:/api
+api>python api.py
+
+
+
+Pesquisar no navegador:
+localhost:2000 
+
+Caso queria, escrever uma mensagem  no campo return ex: tudo ok.
+
+
+
+Se necessário, 
+abrir o python clicando no botão direito e em abrir local de arquivo
+abrir local de arquivo novamente onde o python estiver localizado
+abrir script 
+e na barra de endereço inserir 
+cmd 
+execute
+e abrira um novo prompt
+para escrever os comandos de instalação  das bibliotecas/frameworks
